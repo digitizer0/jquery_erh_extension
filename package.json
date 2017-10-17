@@ -1,0 +1,19 @@
+{
+  "name": "jquery_erh_extension",
+  "version": "1.0.0",
+  "description": "Library of useful JQuery Extensions",
+  "main": "jquery-erh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitizer0/jquery_erh_extension.git"
+  },
+  "author": "Rikard Hermansson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/digitizer0/jquery_erh_extension/issues"
+  },
+  "homepage": "https://github.com/digitizer0/jquery_erh_extension#readme"
+}
